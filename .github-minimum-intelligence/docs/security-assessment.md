@@ -665,3 +665,10 @@ This project follows a coordinated disclosure model:
 *This report was generated under the obligations of the Third Law (Preserve Integrity) and the First Law (Do No Harm). Transparency about security posture is not optional - it is a duty.*
 
 *"Security is not a feature. It is a property - and one that must be continuously earned."*
+
+<p align="center">
+  <picture>
+    <img src="https://raw.githubusercontent.com/japer-technology/github-minimum-intelligence/main/.github-minimum-intelligence/logo.png" alt="Minimum Intelligence" width="500">
+  </picture>
+</p>
+
